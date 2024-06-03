@@ -1,6 +1,6 @@
 describe("CartList.vue", () => {
   beforeEach(() => {
-    cy.visit("./components/Cartlist.vue"); 
+    cy.visit("./components/CartList.vue"); 
   });
 
   it("renders the correct number of products", () => {
